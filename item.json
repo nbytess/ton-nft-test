@@ -1,8 +1,5 @@
 {
-	"image":"https://raw.githubusercontent.com/BradDev01/test-collection/main/logo.png",
-	"cover_image":"https://raw.githubusercontent.com/BradDev01/test-collection/main/cover.png",
-	"name":"Testies #1",
-	"description":"Hi TON Network",
-	"external_link": "https://test.com",
-	"external_url": "https://test.com",
+  "name": "Duck #00",
+  "description": "What about a round of golf?",
+  "attributes": [{ "trait_type": "Awesomeness", "value": "Super cool" }]
 }
