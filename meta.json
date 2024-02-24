@@ -1,9 +1,9 @@
 {
 	"image":"https://raw.githubusercontent.com/BradDev01/test-collection/main/logo.png",
 	"cover_image":"https://raw.githubusercontent.com/BradDev01/test-collection/main/cover.png",
-	"name":"Test Collection",
-	"description":"This is the Test Collection, for Github and our minting software",
-	"external_link": "https://tonbrad.com",
-	"external_url": "https://tonbrad.com",
-	"social_links":["https://t.me/totkitnews","https://totkit.org/","https://t.me/totkitbot"]
+	"name":"Testies",
+	"description":"Hi TON Network",
+	"external_link": "https://test.com",
+	"external_url": "https://test.com",
+	"social_links":["test.com"]
 }
